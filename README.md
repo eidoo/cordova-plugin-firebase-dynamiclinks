@@ -1,7 +1,7 @@
 # cordova-plugin-firebase-dynamiclinks<br>[![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 > Cordova plugin for [Firebase Dynamic Links](https://firebase.google.com/docs/dynamic-links/)
 
-## This plugin is compatible to work with cordova-plugin-firebase
+## This plugin is compatible to work with cordova-plugin-firebase and supports iOS 12 fix from author georgski
  
 ## Installation
 
